@@ -1,0 +1,15 @@
+:root{
+    --mainColor:lightgreen;
+    --secondColor:#fff;
+
+    --borderColor:#c1c1c1;
+    --deepBorderColor: red;
+
+    --mainText: black;
+    --secondText:#4b5156; 
+
+    --themeDotColor:#24292e;
+
+    --btnColor: gray;
+
+}
